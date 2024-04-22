@@ -1,0 +1,220 @@
+[
+    {
+        "id": 1,
+        "amount": -350.00,
+        "date": "2024-03-26",
+        "description": "Shoe store",
+        "type": "credit"
+    },
+    {
+        "id": 2,
+        "amount": -40.00,
+        "date": "2024-03-27",
+        "description": "Gas bill",
+        "type": "credit"
+    },
+    {
+        "id": 3,
+        "amount": -285.00,
+        "date": "2024-03-28",
+        "description": "Lazada shopping",
+        "type": "credit"
+    },
+    {
+        "id": 4,
+        "amount": -559.00,
+        "date": "2024-03-29",
+        "description": "Car Loan",
+        "type": "credit"
+    },
+    {
+        "id": 5,
+        "amount": -175.00,
+        "date": "2024-03-30",
+        "description": "Shopping",
+        "type": "credit"
+    },
+    {
+        "id": 6,
+        "amount": -625.00,
+        "date": "2024-03-31",
+        "description": "New Bicycle",
+        "type": "credit"
+    },
+    {
+        "id": 7,
+        "amount": -25.00,
+        "date": "2024-04-01",
+        "description": "Coffee shop",
+        "type": "debit"
+    },
+    {
+        "id": 8,
+        "amount": -107.25,
+        "date": "2024-04-02",
+        "description": "Grocery shopping",
+        "type": "credit"
+    },
+    {
+        "id": 9,
+        "amount": -200.00,
+        "date": "2024-04-03",
+        "description": "Clothing store",
+        "type": "credit"
+    },
+    {
+        "id": 10,
+        "amount": 1500.00,
+        "date": "2024-04-04",
+        "description": "Salary deposit",
+        "type": "debit"
+    },
+    {
+        "id": 11,
+        "amount": -60.00,
+        "date": "2024-04-05",
+        "description": "Gas station",
+        "type": "debit"
+    },
+    {
+        "id": 12,
+        "amount": -40.00,
+        "date": "2024-04-06",
+        "description": "Movie tickets",
+        "type": "debit"
+    },
+    {
+        "id": 13,
+        "amount": -75.00,
+        "date": "2024-04-07",
+        "description": "Restaurant",
+        "type": "credit"
+    },
+    {
+        "id": 14,
+        "amount": -300.00,
+        "date": "2024-04-08",
+        "description": "Electronics store",
+        "type": "credit"
+    },
+    {
+        "id": 15,
+        "amount": -100.00,
+        "date": "2024-04-09",
+        "description": "Utility bill",
+        "type": "credit"
+    },
+    {
+        "id": 16,
+        "amount": 1200.00,
+        "date": "2024-04-10",
+        "description": "Freelance payment",
+        "type": "debit"
+    },
+    {
+        "id": 17,
+        "amount": -40.00,
+        "date": "2024-04-11",
+        "description": "Books",
+        "type": "debit"
+    },
+    {
+        "id": 18,
+        "amount": -650.00,
+        "date": "2024-04-12",
+        "description": "Rental",
+        "type": "debit"
+    },
+    {
+        "id": 19,
+        "amount": -100.00,
+        "date": "2024-04-13",
+        "description": "Fitness membership",
+        "type": "credit"
+    },
+    {
+        "id": 20,
+        "amount": -250.00,
+        "date": "2024-04-14",
+        "description": "Car insurance",
+        "type": "credit"
+    },
+    {
+        "id": 21,
+        "amount": 800.00,
+        "date": "2024-04-15",
+        "description": "Investment dividend",
+        "type": "debit"
+    },
+    {
+        "id": 22,
+        "amount": -60.00,
+        "date": "2024-04-16",
+        "description": "Dinner with friends",
+        "type": "debit"
+    },
+    {
+        "id": 23,
+        "amount": -150.00,
+        "date": "2024-04-17",
+        "description": "Shopping spree",
+        "type": "debit"
+    },
+    {
+        "id": 24,
+        "amount": 1000.00,
+        "date": "2024-04-18",
+        "description": "Bonus from work",
+        "type": "debit"
+    },
+    {
+        "id": 25,
+        "amount": -80.00,
+        "date": "2024-04-19",
+        "description": "Concert tickets",
+        "type": "debit"
+    },
+    {
+        "id": 26,
+        "amount": -150.00,
+        "date": "2024-04-20",
+        "description": "Charity donation",
+        "type": "debit"
+    },
+    {
+        "id": 27,
+        "amount": -150.00,
+        "date": "2024-04-21",
+        "description": "Return money",
+        "type": "debit"
+    },
+    {
+        "id": 28,
+        "amount": -199.00,
+        "date": "2024-04-22",
+        "description": "Buy legos",
+        "type": "debit"
+    },
+    {
+        "id": 29,
+        "amount": -850.00,
+        "date": "2024-04-23",
+        "description": "Shopee Spree",
+        "type": "credit"
+    },
+    {
+        "id": 30,
+        "amount": -25.00,
+        "date": "2024-04-24",
+        "description": "Desserts",
+        "type": "debit"
+    },
+    {
+        "id": 31,
+        "amount": -75.00,
+        "date": "2024-04-25",
+        "description": "Buffet",
+        "type": "credit"
+    }
+  ]
+  

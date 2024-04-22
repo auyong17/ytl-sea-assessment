@@ -1,0 +1,16 @@
+[
+    {
+        "id": 0,
+        "cardNumber": "**** **** **** 1021",
+        "cardHolder": "Au Yong",
+        "expiryDate": "11/27",
+        "type": "credit"
+    },
+    {
+        "id": 1,
+        "cardNumber": "**** **** **** 3791",
+        "cardHolder": "Au Yong",
+        "expiryDate": "07/28",
+        "type": "debit"
+    }
+]

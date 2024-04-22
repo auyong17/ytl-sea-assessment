@@ -1,9 +1,8 @@
 import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
-import LoginScreen  from '../screens/LoginScreen';
-import HomeScreen  from '../screens/HomeScreen';
-import TransactionDetailScreen  from '../screens/TransactionDetailScreen';
-import TransactionHistoryScreen  from '../screens/TransactionHistoryScreen';
+import LoginScreen  from '../screens/login/LoginScreen';
+import HomeScreen  from '../screens/home/HomeScreen';
+import TransactionDetailScreen  from '../screens/detail/TransactionDetailScreen';
 
 export default function ScreenNavigator() {
   const Stack = createStackNavigator();
@@ -12,10 +11,24 @@ export default function ScreenNavigator() {
     <>
       <NavigationContainer>
         <Stack.Navigator>
-          <Stack.Screen name="Login" component={LoginScreen} />
-          <Stack.Screen name="Home" component={HomeScreen}/>
-          <Stack.Screen name="TransactionDetail" component={TransactionDetailScreen}/>
-          <Stack.Screen name="TransactionHistory" component={TransactionHistoryScreen}/>
+          <Stack.Screen 
+            name="Home" 
+            component={HomeScreen} 
+            options={{ 
+              title: 'My Transaction History', 
+              headerTitleAlign: 'center' 
+            }}/>
+          <Stack.Screen 
+            name="Login" 
+            component={LoginScreen} 
+          />
+          <Stack.Screen 
+            name="TransactionDetail" 
+            component={TransactionDetailScreen} 
+            options={{ 
+              title: 'Transaction Details', 
+              headerTitleAlign: 'center'
+            }}/>
         </Stack.Navigator>
       </NavigationContainer>
     </>
